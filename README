@@ -1,0 +1,3 @@
+cd ~/developer/workspace/gko_destination_stbarth_dmc
+bundle install
+rails s
